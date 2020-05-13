@@ -1,2 +1,1 @@
-# MVC-PHP-POO
-MVC en PHP poo
+# premiere etape : sans mvc 
