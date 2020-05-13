@@ -1,2 +1,0 @@
-# MVC-PHP-POO
-MVC en PHP poo
