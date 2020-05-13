@@ -1,3 +1,4 @@
+<?php
 //renvoi la liste de tous les élèves
 function geteleves(){
 $bdd = getBdd();
